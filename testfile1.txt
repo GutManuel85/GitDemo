@@ -1,2 +1,3 @@
 Hallo, das ist ein Eintrag von A.
 Hallo das ist ein Eintrag, um git diff zu demonstrieren.
+Hallo das ist ein Eintrag von remote (Web-GUI von GitHub).
