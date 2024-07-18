@@ -1,6 +1,9 @@
 Hallo, das ist ein Eintrag von A.
 Hallo das ist ein Eintrag, um git diff zu demonstrieren.
 Hallo das ist ein Eintrag von remote (Web-GUI von GitHub).
+<<<<<<< HEAD
 Hallo mit Autor.
 Oh, das ist falsch.
 Oh, schon wieder falsch.
+=======
+>>>>>>> parent of 4abd0bf (Line added with author)
